@@ -18,6 +18,14 @@
 
 ## Descrição do problema e sua Solução
 
+O problema que buscamos resolver é o monitoramento ambiental que pode ser considerado falho em muita das vezes e consequentemente afeta a vida de trabalhadores de várias areas como o empregado rural e urbano e pode prejudicar detecção de desmatamento, poluição e outras eventos maléficos que podem atrapalhar e muito a sociedade no futuro sendo uma das dificuldades futuras exercer funções que dependem de um clima favorável. Para isso o meu grupo criou um aparelho sensorial com dados confiáveis e precisos que mandam dados continuos para avaliações de dados de curto espaço tempo e que medem vários tipos de dados como temperatura, umidade, luminosidade(radiação solar) e futuramente qualidade do ar, da água, entre outros.
+
+---
+
+## Explicação do uso do HTTP
+
+O código está criando uma URL com parametros que contem api_key, field1, field2 e field3. Depois, com o http.GET(), ele abre uma conexão com o servidor ThingSpeak, envia uma requisição HTTP GET e se deu certo o servidor responde com código 200 e o número indicando o ID da atualização criada. E o String payload = http.getString() recebe a resposta HTTP que geralmetne é o número da entrada salva.
+
 ---
 
 ## Dependências
