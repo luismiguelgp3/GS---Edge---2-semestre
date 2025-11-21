@@ -10,9 +10,13 @@
 
 ## 💻 Projeto Wokwi
 
+[**🔗 Link do projeto do Wokwi**](https://wokwi.com/projects/442197804454616065)
+
 <img width="405" height="336" alt="image" src="https://github.com/user-attachments/assets/f35a746b-98c8-4d7e-ae44-5b3d19bb05a0" />
 
-[**🔗 Link do projeto do Wokwi**](https://wokwi.com/projects/442197804454616065)
+## 💻 DashBoard ThingSpeak
+
+<img width="1144" height="760" alt="image" src="https://github.com/user-attachments/assets/a3d694d8-e836-4721-b91c-425cb4f7f74f" />
 
 ---
 
